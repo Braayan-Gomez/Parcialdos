@@ -1,0 +1,59 @@
+body {
+    margin: 0;
+    padding: 0;
+    width: 100%;
+    font-size: 20px;
+    font-family: 'Nanum Myeongjo', serif;
+}
+
+
+.jumbotron {
+    height: 200px;
+
+}
+
+.container1 {
+    width: 95%;
+    margin: auto;
+}
+
+body {
+    margin: 0;
+    padding: 0;
+    width: 100%;
+    font-size: 20px;
+}
+
+.jumbotron {
+    background: #90C59A;
+}
+
+footer {
+    margin-top: 100px;
+    width: 100%;
+    height: 120px;
+    padding: 0;
+    background: #00487F;
+    color: white;
+}
+
+.imagenicon img{
+    width: 150px;
+    margin-top: -110px;
+}
+.reserva{
+    width: 400px;
+    margin-top: 40px;
+    border-radius: 5px;
+    border: 1.2px solid #bebebe5d;
+    padding: 10px 25px  15px  25px;
+    font-size: 16px;
+    font-family: 'Nanum Myeongjo', serif;
+}
+
+.reserva p {
+    padding-top: 20px;
+    margin: auto;
+    text-align: center;
+    font-size: 13px;
+}
